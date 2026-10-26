@@ -1,0 +1,9 @@
+target/
+reports/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.pem
+.env

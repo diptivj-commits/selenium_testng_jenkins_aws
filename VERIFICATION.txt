@@ -1,0 +1,1 @@
+Verified: Maven compiled all six Java test/support classes; ConfigurationTest: 3 passed, 0 failures/errors/skips. Practice HTTP page returned 200 with expected login form. bash -n aws/install-ubuntu.sh passed. Both IAM policy JSON files parsed. Browser tests, Jenkins pipeline, EC2 install and S3 upload were not executed in this environment (no Chrome, Jenkins or AWS account).
